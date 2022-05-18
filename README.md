@@ -1,6 +1,6 @@
-this is a work in progress.
-looking to build a medical application utilizing the erc721 token
-where by my medical records can be accessed anywhere in the world.
+A simple opensea Dapp.
+When you login via metamask  a window pops up with your opensea collection.
+This dapp saves having to log into opensea directly and can be incorporated into other dapps
 
 
 �
